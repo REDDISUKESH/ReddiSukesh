@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/reddisukesh" target="blank"><img src="https://img.shields.io/twitter/follow/reddisukesh?logo=twitter&style=for-the-badge" alt="reddisukesh" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Working On ComputerVision Projects**
+- 🌱 I’m currently learning **React ,Working On ComputerVision Projects**
 
 - 💬 Ask me about **Focus on showcasing MERN expertise and problem-solving skills**
 
