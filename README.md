@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reddi Sukesh</h1>
 <h3 align="center">I am an enthusiastic and highly skilled Full Stack Developer with a strong passion for Artificial Intelligence, hailing from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddisukesh&label=Profile%20views&color=0e75b6&style=flat" alt="reddisukesh" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/reddisukesh" target="blank"><img src="https://img.shields.io/twitter/follow/reddisukesh?logo=twitter&style=for-the-badge" alt="reddisukesh" /></a> </p>
 
